@@ -7,7 +7,7 @@ public class Main {
         acc.setName("Rahul Mynala");
         acc.setEmail("Rmynla@gmail.com");
         acc.setAmount(1234.56);
-        // Getting values through getter method
+        // Getting values through getter method updated
         System.out.println(
                 acc.getAcc_no()+"   "  + acc.getName()+"   "+acc.getEmail()+"   "+acc.getAmount());
 
